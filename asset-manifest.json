@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sunjelink/static/css/main.f855e6bc.css",
+    "main.js": "/sunjelink/static/js/main.38ae1236.js",
+    "static/js/488.f0f8543a.chunk.js": "/sunjelink/static/js/488.f0f8543a.chunk.js",
+    "static/media/sunje.png": "/sunjelink/static/media/sunje.af5067d5d99290bdd8c5.png",
+    "index.html": "/sunjelink/index.html",
+    "main.f855e6bc.css.map": "/sunjelink/static/css/main.f855e6bc.css.map",
+    "main.38ae1236.js.map": "/sunjelink/static/js/main.38ae1236.js.map",
+    "488.f0f8543a.chunk.js.map": "/sunjelink/static/js/488.f0f8543a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.38ae1236.js"
+  ]
+}
